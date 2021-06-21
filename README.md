@@ -13,7 +13,7 @@
 	- [x] pdf e documentos
 - [x] Push Notification 
 ### Futuras implementações
-- [ ] Salvar mensagens no storage do celular para não precisar consultar o websockets quando não tiver internet
+- [ ] Salvar mensagens localmente para acesso offline
 - [ ] Visualização de pdfs e outros arquivos
 
 ### Capturas de tela - Dark Mode

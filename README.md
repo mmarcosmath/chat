@@ -17,9 +17,11 @@
 - [ ] Visualização de pdfs e outros arquivos
 
 ### Capturas de tela
-<img src="readme/1.png" width="200"/>
-<img src="readme/2.png" width="200"/>
-<img src="readme/3.png" width="200"/>
-<img src="readme/4.png" width="200"/>
-<img src="readme/5.png" width="200"/>
-<img src="readme/6.png" width="200"/>
+<p float="left">
+	<img src="readme/1.png" width="180"/>
+	<img src="readme/2.png" width="180"/>
+	<img src="readme/3.png" width="180"/>
+	<img src="readme/4.png" width="180"/>
+	<img src="readme/5.png" width="180"/>
+	<img src="readme/6.png" width="180"/>
+</p>
